@@ -243,7 +243,7 @@ Example:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/banking-application.git
+git clone https://github.com/basigirisaisindhu011/banking-application.git
 ```
 
 ### Navigate to Project
